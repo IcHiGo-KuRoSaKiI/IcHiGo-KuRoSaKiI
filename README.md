@@ -31,11 +31,11 @@
 <h2 align="center">👨🏻‍💻 About Me: </h2>
 <img src ="https://github.com/IcHiGo-KuRoSaKiI/VedanshKumar/blob/main/octocat-anime.gif?" align="right" width="150">
 - :computer: I'm currently working on Improving my CP skills <br>
-- :hourglass_flowing_sand:  Exploring Deep Learning and Game Development <br>
+- :hourglass_flowing_sand:  Exploring Deep Learning, Game Development and Ethical hacking once in a while  <br>
 - :rocket: Always ready to collaborate for Dev Experiments <br>
 - :man_technologist: Lead Developer of CIACON CTF <br>
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" <br>
-- :trophy: "Winner of Toycathon'21 " - game development 🎮 <br>
+- :🥇: "Winner of Toycathon'21 " - game development 🎮 <br>
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking <br>
 
 
