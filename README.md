@@ -1,7 +1,7 @@
 <h2 align = center> Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h2>
 <p align='center'>
 	<a href= "" target="_blank">
-	<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20i%20am%20vedansh;Hi%20i%20am%20vedansh+second+time&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+	<img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20folks%2C%20i%20am%20Vedansh%20Kumar;and%20i%20make%20apps%20and%20games%20%F0%9F%9A%80&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=24"></a>
 </p>
 <br>
 <h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -35,7 +35,7 @@
 - :rocket: Always ready to collaborate for Dev Experiments <br>
 - :man_technologist: Lead Developer of CIACON CTF <br>
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" <br>
-- :🥇: "Winner of Toycathon'21 " - game development 🎮 <br>
+- :🥇: "Winner of Toycathon'21 " - Game Development 🎮 <br>
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking <br>
 
 
