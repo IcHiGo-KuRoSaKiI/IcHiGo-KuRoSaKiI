@@ -50,12 +50,13 @@
 
 <p>Have a good day!</p>
 <div>
+<img src = "https://github.com/IcHiGo-KuRoSaKiI/VedanshKumar/blob/main/gameIdleAnim.gif" alt = "" align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
 </div>
 <div align="center">
 <p></p>
 <img src="https://profile-counter.glitch.me/IcHiGo-KuRoSaKiI/count.svg" alt="hit counter" align="center">
-<img src = "https://github.com/IcHiGo-KuRoSaKiI/VedanshKumar/blob/main/gameIdleAnim.gif" alt = "" align="center">
+
 </div>
 </footer>
