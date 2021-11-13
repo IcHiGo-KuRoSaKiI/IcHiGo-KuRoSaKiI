@@ -48,10 +48,11 @@
 <footer>
 <div align="center">
 
-<p>Have a good day!</p>
+
 <div>
 <img src = "https://github.com/IcHiGo-KuRoSaKiI/VedanshKumar/blob/main/gameIdleAnim.gif" alt = "" align="center">
 </div>
+<p>Have a fabulous day!</p>
 <div align="center">
 <p></p>
 <img src="https://profile-counter.glitch.me/IcHiGo-KuRoSaKiI/count.svg" alt="hit counter" align="center">
