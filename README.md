@@ -35,7 +35,7 @@
 - :rocket: Always ready to collaborate for Dev Experiments <br>
 - :man_technologist: Lead Developer of CIACON CTF <br>
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" <br>
-- :🥇: "Winner of Toycathon'21 " - Game Development 🎮 <br>
+- 🥇 "Winner of Toycathon'21 " - Game Development 🎮 <br>
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking <br>
 
 
