@@ -57,7 +57,7 @@ Software Developer based in **Gurugram, India**. Been coding for fun since colle
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IcHiGo-KuRoSaKiI&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=IcHiGo-KuRoSaKiI&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </p>
 
 ---
