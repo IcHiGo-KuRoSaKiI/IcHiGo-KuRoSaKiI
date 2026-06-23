@@ -103,7 +103,7 @@ async function ghAll(path) {
 <defs><filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.1" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#50dcff"/><stop offset="0.55" stop-color="#ff4fa3"/><stop offset="1" stop-color="#ffd700"/></linearGradient></defs>
 <rect x="0.5" y="0.5" width="${W - 1}" height="${Hh - 1}" rx="13" fill="#07070f" stroke="#2a2a45"/>
-<text x="${PAD}" y="${PAD + 26}" class="big">${total.toLocaleString()} commits<tspan class="big dim"> in the last year</tspan></text>
+<text x="${PAD}" y="${PAD + 26}" class="big">${total.toLocaleString()} commits<tspan class="big dim" dx="6">in the last year</tspan></text>
 <text x="${PAD}" y="${PAD + 47}" class="sub">across ${repos.length} repos · public + private · ${activeDays} active days · current streak ${current}d · longest ${longest}d</text>
 ${months}${dayLbl}${cells}
 <text x="${PAD}" y="${Hh - PAD - 2}" class="dl">Most of this is private work — counted, never exposed.</text>

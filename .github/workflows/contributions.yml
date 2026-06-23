@@ -24,21 +24,26 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Generate heatmap (counts commits across all repos — counts only)
+      - name: Generate heatmap SVG (counts commits across all repos — counts only)
         env:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}   # read-only PAT, all repos
           GH_LOGIN: IcHiGo-KuRoSaKiI
           OUT: ./contributions.svg
         run: node .github/scripts/heatmap.mjs
 
+      - name: Rasterize SVG -> PNG (bulletproof render for the README)
+        run: |
+          npm i --no-save sharp
+          node -e "require('sharp')('contributions.svg',{density:192}).png().toFile('contributions.png').then(i=>console.log('png',i.width+'x'+i.height))"
+
       - name: Commit if the heatmap changed
         run: |
-          if [[ -n "$(git status --porcelain contributions.svg)" ]]; then
+          if [[ -n "$(git status --porcelain contributions.svg contributions.png)" ]]; then
             git config user.name  "IcHiGo-KuRoSaKiI"
             git config user.email "vedansh21.2000@gmail.com"
-            git add contributions.svg
+            git add contributions.svg contributions.png
             git commit -m "chore: refresh contribution heatmap"
             git push
           else
-            echo "No change in contributions.svg — nothing to commit."
+            echo "No change — nothing to commit."
           fi

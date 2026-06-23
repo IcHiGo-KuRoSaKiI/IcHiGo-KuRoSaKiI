@@ -81,7 +81,7 @@ What I care about most is **architecture** — designing the whole system (data,
 ## `// stats`
 
 <p align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/IcHiGo-KuRoSaKiI/IcHiGo-KuRoSaKiI/main/contributions.svg" alt="commit activity across all my repos — public + private"/>
+  <img width="98%" src="https://raw.githubusercontent.com/IcHiGo-KuRoSaKiI/IcHiGo-KuRoSaKiI/main/contributions.png" alt="commit activity across all my repos — public + private"/>
 </p>
 
 <p align="center">
