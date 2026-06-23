@@ -81,11 +81,14 @@ What I care about most is **architecture** — designing the whole system (data,
 ## `// stats`
 
 <p align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=IcHiGo-KuRoSaKiI&background=07070F&border=2A2A45&stroke=2A2A45&ring=50DCFF&fire=FF4FA3&currStreakNum=E8E8F5&currStreakLabel=50DCFF&sideNums=E8E8F5&sideLabels=9A9CC0&dates=6A6D95" alt="contribution streak"/>
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcHiGo-KuRoSaKiI&layout=compact&langs_count=8&hide=html,css,ejs,smarty&bg_color=07070F&title_color=50DCFF&text_color=9A9CC0&border_color=2A2A45" alt="Top languages"/>
+  <img width="98%" src="https://raw.githubusercontent.com/IcHiGo-KuRoSaKiI/IcHiGo-KuRoSaKiI/main/contributions.svg" alt="commit activity across all my repos — public + private"/>
 </p>
 
-<p align="center"><sub>Most of my work lives in <b>private repos</b> — my profile's contribution graph counts it <b>anonymously</b> (no code, just the volume). Day-to-day: <b>Python</b>, <b>TypeScript</b> &amp; <b>C#</b> across Generative AI, full-stack &amp; game dev.</sub></p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcHiGo-KuRoSaKiI&layout=compact&langs_count=8&hide=html,css,ejs,smarty&bg_color=07070F&title_color=50DCFF&text_color=9A9CC0&border_color=2A2A45" alt="Top languages"/>
+</p>
+
+<p align="center"><sub>The heatmap counts commits across <b>all my repos</b> (public + private) — auto-refreshed daily by a GitHub Action that emits only counts, never code. Day-to-day: <b>Python</b>, <b>TypeScript</b> &amp; <b>C#</b> across Generative AI, full-stack &amp; game dev.</sub></p>
 
 ---
 
